@@ -1,0 +1,5 @@
+C:\Users\yen-o\Desktop\Project Creator.exe
+C:\Users\yen-o\Desktop\Project Creator.dll
+C:\Users\yen-o\Desktop\Project Creator.deps.json
+C:\Users\yen-o\Desktop\Project Creator.runtimeconfig.json
+C:\Users\yen-o\Desktop\Project Creator.pdb
